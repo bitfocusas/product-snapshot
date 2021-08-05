@@ -1,2 +1,2 @@
 # product-snapshot
-A snapshot and web admin tool for Blackmagic Design ATEM switchers
+A snapshot tool with a rundown for Blackmagic Design ATEM switchers and companion
